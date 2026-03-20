@@ -1,0 +1,41 @@
+                                                  [<GIT>]
+check git install your system and cmd check git.
+next, git config --global user.name <your git username or you want commit git name>
+next, git config --global user.email <your git email>
+next , create one folder or your working file name.
+next, open your code editer VScode open your folder name or your working file name.
+next, your code editer open terminal your file path check must.
+next, in terminal type git clone your github page code click and copy and paste your terminal.
+next, start terminal cd your file name
+next, if you want create file and write something.
+next, git add your file name.
+next, check your git changes commit, your terminal check git status.
+next, git commit -m ("'your file name' file added" or " Created 'your file name'".
+next, git push origin main.
+next, if you want any file delete, first delete your local file which file you want click delete.
+next, if you want deleteded file also delete in your gitub page do this, git add "your deleteded file name".
+next, git commit -m "deleted file name file".
+next, git push origin main.
+next, if you want any new update your github pages want in local do this git pull.
+next, if you want any new folder push first you change cd .. two dot.
+next, your cd folder name.
+next, so always your folder your github page do this git init.
+next, if you want new files add github page do this git add . single dot all modified and update.
+next, git commit -m "Created which file add and update name here".
+next, go your github page create new repository.
+next, copy the new repository origin link.
+next, than go paste your terminal git remote add origin (link here).
+next, check your git branch , this show in master.
+next, if you want change branch name git branch -M main.
+next, now go check git push origin main.
+next, if you want check how many branchs git branch -a.
+next, if you want changes show your local git pull.
+next, if you want change switched file path git checkout (file name).
+next, if you want check branch difference do this git diff (branch name).
+next, if you want two branch marge do this git marge (branch name).
+next, check your branchs marge do this git push origin main.
+
+
+
+
+
